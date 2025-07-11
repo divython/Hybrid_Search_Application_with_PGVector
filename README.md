@@ -94,7 +94,7 @@ The application consists of several key components with enhanced intelligence la
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/divython/task1
 cd hybrid-search-app
 ```
 
